@@ -1,11 +1,11 @@
 body { 
-display: flex;
-align-item: flex-end;
-justify-content: center;
-min-height: 100vh;
-background-color: var(--dark-color);
-overflow: hidden;
-perspective: 1000px;
+  display: flex;
+  align-item: flex-end;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: var(--dark-color);
+  overflow: hidden;
+  perspective: 1000px;
 }
 
 <!---
